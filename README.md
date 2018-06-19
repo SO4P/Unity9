@@ -414,4 +414,4 @@
 
 + 更多代码请下载项目查看（GameDirector、IUserAction、Singleton）
 
-+ ![演示视频](https://github.com/SO4P/Unity9/blob/master/%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.zip)
++ [演示视频](https://github.com/SO4P/Unity9/blob/master/%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.zip)
